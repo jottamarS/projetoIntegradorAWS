@@ -40,7 +40,7 @@ O projeto foi desenvolvido para ser hospedado na nuvem, especificamente na **AWS
 ├── /index.php              # Página principal do sistema (dashboard)
 └── /db/                    # Arquivos relacionados ao banco de dados
 
-
+```yaml
 ---
 
 ## Instalação
